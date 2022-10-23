@@ -1,4 +1,4 @@
-# Hackintosh on the Thinkpad L440 and T440p
+# Lenovo ThinkPad L440 OpenCore Configuration
 
 ![](https://raw.githubusercontent.com/ulisesvina/hackintosh-thinkpad-l440/main/Captura%20de%20Pantalla%202022-02-22%20a%20la(s)%202.47.33%20p.m..png)
 
